@@ -1,5 +1,6 @@
 # GoPassTheme
-SSPanel主题 A theme for SSPanel Telegram:[@imRoll](https://t.me/imRoll "imRoll") 加TG索要测试帐号
+SSPanel主题 A theme for SSPanel Telegram:[@imRoll](https://t.me/imRoll "imRoll") 
+测试站 WWW.GOPASS.CC
 ![gopass-review_01.jpg](https://i.loli.net/2021/04/25/Nf7ak1gxXDPBut3.jpg)
 ![gopass-review_02.jpg](https://i.loli.net/2021/04/25/94bHyJGdPArBtT3.jpg)
 ![gopass-review_03.jpg](https://i.loli.net/2021/04/25/uA1wQPmNW624qt9.jpg)
