@@ -1,6 +1,6 @@
 # GoPassTheme
 SSPanel主题 A theme for SSPanel 
-Telegram密码忘了 需要发邮件吧gopassthewall#gmail.com
+https://t.me/JUSTGOTHEHE
 ![gopass-review_01.jpg](https://i.loli.net/2021/04/25/Nf7ak1gxXDPBut3.jpg)
 ![gopass-review_02.jpg](https://i.loli.net/2021/04/25/94bHyJGdPArBtT3.jpg)
 ![gopass-review_03.jpg](https://i.loli.net/2021/04/25/uA1wQPmNW624qt9.jpg)
