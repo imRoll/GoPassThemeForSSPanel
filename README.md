@@ -1,5 +1,6 @@
 # GoPassTheme
 SSPanel主题 A theme for SSPanel 
+请先测试后再安装
 https://t.me/JUSTGOTHEHE
 ![gopass-review_01.jpg](https://i.loli.net/2021/04/25/Nf7ak1gxXDPBut3.jpg)
 ![gopass-review_02.jpg](https://i.loli.net/2021/04/25/94bHyJGdPArBtT3.jpg)
